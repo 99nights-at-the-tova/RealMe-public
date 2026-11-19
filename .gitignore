@@ -1,0 +1,34 @@
+# Gradle / Android
+.gradle/
+.gradle-user-home/
+.kotlin/
+**/build/
+local.properties
+*.apk
+*.aab
+
+# IDE
+.idea/
+*.iml
+
+# Local secrets and signing
+*.jks
+*.keystore
+keystore.properties
+google-services.json
+secrets.properties
+
+# OS / logs
+.DS_Store
+Thumbs.db
+*.log
+
+# Temporary local verification artifacts
+verification/
+
+# Recordings may contain account information; review before sharing.
+*.mp4
+
+# Gradle generated toolchain config
+gradle/gradle-daemon-jvm.properties
+

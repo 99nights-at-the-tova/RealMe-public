@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RealMe</string>
+    <string name="capture_channel_name">ゲーム画面の撮影</string>
+    <string name="capture_notification">撮影ボタンを表示しています</string>
+    <string name="accessibility_service_label">RealMe 画面撮影</string>
+    <string name="accessibility_service_description">ゲーム画面のスクリーンショットを撮影するためのボタンを表示します。画面の内容を読み取ったり、操作を自動化したりはしません。</string>
+    <string name="screenshot_tile_label">RealMe撮影</string>
+</resources>
